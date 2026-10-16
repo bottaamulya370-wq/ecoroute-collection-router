@@ -1,0 +1,6 @@
+{
+  "name": "EcoRoute Smart Waste Collection Router",
+  "description": "AI-powered smart waste collection routing platform with IoT sensor simulation, fill-level machine learning prediction, heap priority queue optimization, A* graph pathfinding, and eco-impact tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
